@@ -8,4 +8,5 @@ Hello guys , this code for parsing sites, with BeautifulSoup and requests
 
   ``pip install bs4``
 
-Then you can work with that
+## Then you can work with that
+Be sure to study the code

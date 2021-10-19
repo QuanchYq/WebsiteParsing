@@ -1,7 +1,7 @@
 # WebsiteParsing 
 Hello guys , this code for parsing sites, with BeautifulSoup and requests
 # Installing libs
->You need to install lib at first
+## First you need to download all the required libraries
 
 
 ``pip install requests``
